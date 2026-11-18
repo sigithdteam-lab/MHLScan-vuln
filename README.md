@@ -13,21 +13,18 @@ MHLScan dirancang sebagai toolkit keamanan web dan infrastruktur yang menggabung
 
 Reconnaissance, Subdomain enumeration, IP/CIDR scanner, vulnerability scanning, Port & service discovery, Technology fingerprint, software Version detection, cve intelligence, SQLi scanner, XSS scanner, WAF detection, JWT analysis, HTTP smuggling, SSL/TLS check, HTTP headers, Crawler, Parameter discovery, Nuclei integration, Exploit DB, Reporting, Update cve multi source, jitter mode, auto exploit 
 
- A. Default configuration
-Source _menu.py menetapkan konfigurasi awal berikut:
-Setting Default (menu 7 to change )
-Severity High
-Workers 10
-Timeout 5 detik
-Stealth ON
-SQLMap ON
-Amass ON
-WSTG coverage ON
-XSS OFF
-Aggressive OFF
-Auto-exploit OFF
-Post-exploit read/write OFF
-
+A. Default configuration
+- Severity High
+- Workers 10
+- Timeout 5 detik
+- Stealth ON
+- SQLMap ON
+- Amass ON
+- WSTG coverage ON
+- XSS OFF
+- Aggressive OFF
+- Auto-exploit OFF
+- Post-exploit read/write OFF
 
 B. Fitur berisiko tinggi
 Source juga memiliki kemampuan:
