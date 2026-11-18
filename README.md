@@ -1,6 +1,8 @@
 MHLScanner - Project Just For Fun ONLY
 spesial gift to L4merz , hacker wannabe, script kiddies , 
 
+download > extract file mhlscan.zip
+
 USAGE:
 
  python3 mhlscan.py
